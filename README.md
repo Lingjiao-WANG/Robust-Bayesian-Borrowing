@@ -23,6 +23,9 @@ To use the codes for reproducing numerical results, tables and figures given in 
 4. Effective historical sample size – Section 5.4
 	* Reproduce Figure 3:
 	  * Figure 3: ‘case_study_ESS.R’.
+5. Sample size determination – Section 5.5
+	* Reproduce Figure 4:
+	  * Figure 4: ‘case_study_sample_size_determine.R’.
 
 
 
