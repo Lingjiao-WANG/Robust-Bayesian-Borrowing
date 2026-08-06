@@ -3,8 +3,8 @@ Robust Bayesian Borrowing with Local Control of Type I Error and Power
 ## Authors: 
 
 ## Configurations:
-* R version 4.2.2 (2022-10-31)
-* Platform: x86_64-pc-linux-gnu (64-bit)
+* R version 4.5.1 (2025-06-13 ucrt)
+* Platform: x86_64-w64-mingw32/x64
 * Running Environment: Windows PC (Intel(R) Core(TM) i5-1145G7 CPU with 2.60GHz, 1.50 GHz, RAM 8.00 GB) 
 * Number of Cores Used: 8 Cores
 ## Execution:
